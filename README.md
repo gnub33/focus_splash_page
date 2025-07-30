@@ -1,0 +1,1 @@
+Simple Silly website redirect.
